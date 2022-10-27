@@ -1,8 +1,22 @@
 https://keen-narwhal-a01fec.netlify.app/
 
+Información destacada:
+
+- El nombre que se da identifica al reducer del que se está hablando. Por ejemplo, la propiedad name que tiene el valor gallery es lo que le da el nombre a un reducer llamado galleryReducer.
+
+- La presencia de galleryReducer identifica que hay un reducer en la store de la aplicación web.
+
+- La response que se obtiene se formatea con await response.json(), convirtiéndola en un formato utilizable, y luego se retorna.
+
+- En el objeto extraReducers, .pending es algo que uno no crea, sino que ya está abstraído en createAsyncThunk, y determina la lógica que se utilizará cuando se espera que una llamada a una API finalice.
+
+- En payload.action que está en el extrareducer [getPhotos.fulfilled], la payload son los datos que provienen del consumo de una API, y son hechos iguales a o son pasados al arreglo de state.photos.
+
+- state.isLoading es establecido como false en el extrareducer [get Photos.fulfilled] porque ya no es necesario esperar a que se complete una tarea asíncrona.
+
 Highlighted information:
 
-- The name that is given identifies which reducer is being talked about. For example, the property name that has the value gallery has a reducer called galleryReducer.
+- The name that is given identifies which reducer is being talked about. For example, the property name that has the value gallery is what gives a reducer called galleryReducer its name.
 
 - The presence of galleryReducer identifies that there's a reducer in the web application's store.
 
