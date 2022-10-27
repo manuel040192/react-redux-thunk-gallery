@@ -2,7 +2,7 @@ https://keen-narwhal-a01fec.netlify.app/
 
 **Información destacada:**
 
-- El nombre que se da identifica al reducer del que se está hablando. Por ejemplo, la propiedad name que tiene el valor gallery es lo que le da a un reducer llamado galleryReducer su nombre.
+- Un nombre que se da identifica al reducer del que se está hablando. Por ejemplo, la propiedad name que tiene el valor gallery es lo que le da a un reducer llamado galleryReducer su nombre.
 
 - La presencia de galleryReducer identifica que hay un reducer en la store de la aplicación web.
 
@@ -16,7 +16,7 @@ https://keen-narwhal-a01fec.netlify.app/
 
 **Highlighted information:**
 
-- The name that is given identifies which reducer is being talked about. For example, the property name that has the value gallery is what gives a reducer called galleryReducer its name.
+- A name that is given identifies which reducer is being talked about. For example, the property name that has the value gallery is what gives a reducer called galleryReducer its name.
 
 - The presence of galleryReducer identifies that there's a reducer in the web application's store.
 
