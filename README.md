@@ -1,6 +1,6 @@
 https://keen-narwhal-a01fec.netlify.app/
 
-- The name that is given identifies which reducer is being talked about. For example, the property name that has the value 'gallery' has a reducer called galleryReducer.
+- The name that is given identifies which reducer is being talked about. For example, the property name that has the value gallery has a reducer called galleryReducer.
 
 - The presence of galleryReducer identifies that there's a reducer in store.
 
