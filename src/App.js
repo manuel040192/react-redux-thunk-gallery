@@ -29,7 +29,6 @@ function App() {
             height='400'
           /> )}
       </div>
-      <button>VIEW MORE</button>
     </div>
   );
 }
