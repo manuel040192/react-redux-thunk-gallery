@@ -1,6 +1,6 @@
 https://keen-narwhal-a01fec.netlify.app/
 
-Información destacada:
+**Información destacada:**
 
 - El nombre que se da identifica al reducer del que se está hablando. Por ejemplo, la propiedad name que tiene el valor gallery es lo que le da a un reducer llamado galleryReducer su nombre.
 
@@ -14,7 +14,7 @@ Información destacada:
 
 - state.isLoading es establecido como false en el extrareducer [get Photos.fulfilled] porque ya no es necesario esperar a que se complete una tarea asíncrona.
 
-Highlighted information:
+**Highlighted information:**
 
 - The name that is given identifies which reducer is being talked about. For example, the property name that has the value gallery is what gives a reducer called galleryReducer its name.
 
