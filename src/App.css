@@ -28,18 +28,3 @@ hr {
 .Gallery {
   margin: 0 5%;
 }
-
-button {
-  margin: 20px;
-  border-width: 1px;
-  border-style: solid;
-  color: #000000;
-  padding: 20px;
-  background: none;
-}
-
-button:hover {
-  background: #000000;
-  color: #ffffff;
-  cursor: pointer;
-}
